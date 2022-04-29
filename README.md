@@ -1,3 +1,19 @@
+# My Spotify Music Search App
+
+This is a follow a long from myogeshchavana97 that I did for my project in MERN for Coding Dojo
+
+You will need to get your own access key or client ID from spofity the link nis below.
+
+https://developer.spotify.com/dashboard/login
+
+You will login with your spofity account and follow the instructions from there
+
+Place your client ID in the .env file where it says "Your ID"
+
+shoudl be good to go from there
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
