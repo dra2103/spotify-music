@@ -10,7 +10,7 @@ You will login with your spofity account and follow the instructions from there
 
 Place your client ID in the .env file where it says "Your ID"
 
-shoudl be good to go from there
+should be good to go from there
 
 
 
